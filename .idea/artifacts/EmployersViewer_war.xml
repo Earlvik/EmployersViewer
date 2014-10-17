@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="EmployersViewer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EmployersViewer.war">
+      <element id="artifact" artifact-name="EmployersViewer:war exploded" />
+    </root>
+  </artifact>
+</component>
